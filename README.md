@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geniusbj8
-- 👀 I’m interested in ...web development and AI
-- 🌱 I’m currently learning ...Web development
-- 💞️ I’m looking to collaborate on ...AI
+- 👀 I’m interested in ...web development, AI, Blockchain, web 3.0, cyber security
+- 🌱 I’m currently learning ...Blockchain and Web 3.0
+- 💞️ I’m looking to collaborate on ...Web Development
 - 📫 How to reach me ... instagram @b.3njah
 
 <!---
