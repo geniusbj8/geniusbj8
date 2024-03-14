@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @geniusbj8
+- I'm a Graphic Designer, Web Developer, ....
 - 👀 I’m interested in ...web development, AI, Blockchain, web 3.0, cyber security
 - 🌱 I’m currently learning ...Blockchain and Web 3.0
 - 💞️ I’m looking to collaborate on ...Web Development
