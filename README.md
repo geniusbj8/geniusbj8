@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web Dev, Software Development**
 
-- 📫 How to reach me **benjaminjustin58#gmail.com**
+- 📫 How to reach me **benjaminjustin58@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
